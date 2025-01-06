@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/factoryMethod-CreationalPatterns.iml" filepath="$PROJECT_DIR$/factoryMethod-CreationalPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPatternsImplementation.iml" filepath="$PROJECT_DIR$/designPatternsImplementation.iml" />
     </modules>
   </component>
 </project>
