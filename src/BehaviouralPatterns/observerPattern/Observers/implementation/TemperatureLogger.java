@@ -1,11 +1,11 @@
-package Observers.implementation;
+package BehaviouralPatterns.observerPattern.Observers.implementation;
 
-import Observers.action.Observer;
+import BehaviouralPatterns.observerPattern.Observers.ThermometerObserver;
 
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class TemperatureLogger implements Observer {
+public class TemperatureLogger implements ThermometerObserver {
     @Override
     public void update(float temp){
         try{
